@@ -1,5 +1,5 @@
 # Occlusion Robust Face Recognition based on Mask Learning with Pairwise Differential Siamese Network
-## [Arxiv (ICCV2019 Poster)](https://arxiv.org/abs/1908.06290)
+## [Arxiv (ICCV2019 Poster)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Song_Occlusion_Robust_Face_Recognition_Based_on_Mask_Learning_With_Pairwise_ICCV_2019_paper.pdf)
 ## Introduction
 This is code for the PDSN in our paper.
 ## Abstract
@@ -25,12 +25,11 @@ run *./scripts/extract_mask_dic.sh* with proper settings.
 If you find this repository useful for your research, please cite the following paper:
 
 ```
-  @misc{song2019occlusion,
-    title={Occlusion Robust Face Recognition Based on Mask Learning with PairwiseDifferential Siamese Network},
-    author={Lingxue Song and Dihong Gong and Zhifeng Li and Changsong Liu and Wei Liu},
-    year={2019},
-    eprint={1908.06290},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+  @InProceedings{Song_2019_ICCV,
+    author = {Song, Lingxue and Gong, Dihong and Li, Zhifeng and Liu, Changsong and Liu, Wei},
+    title = {Occlusion Robust Face Recognition Based on Mask Learning With Pairwise Differential Siamese Network},
+    booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+    month = {October},
+    year = {2019}
 }
 ```
