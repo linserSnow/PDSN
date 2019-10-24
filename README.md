@@ -16,7 +16,7 @@ Deep Convolutional Neural Networks (CNNs) have been pushing the frontier of face
 ***To be continued...***
 ### Train one PDSN
 run *./scripts/train_dict.sh* with proper settings.
-## Constructing dictionary
+## Construct dictionary
 ### Data preparation
 ***To be continued...***
 ### Extract masks
